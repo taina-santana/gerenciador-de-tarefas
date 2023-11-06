@@ -6,7 +6,7 @@
 
 <h2>📃 About</h2>
 
-This project is a **task manager** that aims too facilitate day-to-day control in an interactive and easy way, saving data in local storage so that the user always has access to the site according to its latest changes.
+This project is a **task manager** that aims facilitate day-to-day control in an interactive and easy way, saving data in local storage so that the user always has access to the site according to its latest changes.
 
 <h2>🛠️ Tools</h2>
 <ul>
